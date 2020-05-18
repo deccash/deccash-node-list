@@ -3,7 +3,7 @@
     {
       "name": "Official Node 1",
       "url": "167.86.94.121",
-      "port": 29889,
+      "port": 29887,
       "ssl": false,
       "fee": 0,
       "online": true
@@ -11,7 +11,7 @@
     {
       "name": "Official Node 2",
       "url": "192.187.106.179",
-      "port": 29889,
+      "port": 29888,
       "ssl": false,
       "fee": 0,
       "online": true
@@ -22,7 +22,7 @@
       "port": 29889,
       "ssl": false,
       "fee": 0,
-      "online": true
+      "online": false
     }
   ]
 }
