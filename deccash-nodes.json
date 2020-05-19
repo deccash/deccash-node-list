@@ -20,9 +20,9 @@
       "name": "Official Node 3",
       "url": "5.9.82.73",
       "port": 29889,
-      "ssl": true,
+      "ssl": false,
       "fee": 0,
-      "online": false
+      "online": true
     }
   ]
 }
