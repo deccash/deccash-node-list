@@ -10,8 +10,8 @@
     },
     {
       "name": "Official Node 2",
-      "url": "192.187.106.179",
-      "port": 29888,
+      "url": "167.86.83.67",
+      "port": 443,
       "ssl": false,
       "fee": 0,
       "online": true
@@ -22,7 +22,7 @@
       "port": 29889,
       "ssl": false,
       "fee": 0,
-      "online": true
+      "online": false
     }
   ]
 }
