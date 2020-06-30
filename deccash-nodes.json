@@ -23,6 +23,14 @@
       "ssl": false,
       "fee": 0,
       "online": true
+    },
+    {
+      "name": "Official Node 3 - linux19 - 28287",
+      "url": "167.86.83.67",
+      "port": 28287,
+      "ssl": false,
+      "fee": 0,
+      "online": true
     }
   ]
 }
