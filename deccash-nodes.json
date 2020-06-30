@@ -17,9 +17,9 @@
       "online": true
     },
     {
-      "name": "Official Node 3 - linux19",
+      "name": "Official Node 3 - linux19 - 28282",
       "url": "167.86.83.67",
-      "port": 288,
+      "port": 28282,
       "ssl": false,
       "fee": 0,
       "online": true
