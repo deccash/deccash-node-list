@@ -1,15 +1,15 @@
 {
   "nodes": [
     {
-      "name": "Official Node linux13",
+      "name": "Official Node linux13 - 28287",
       "url": "167.86.94.121",
-      "port": 288,
+      "port": 28287,
       "ssl": false,
       "fee": 0,
       "online": true
     },
     {
-      "name": "Official Node 2 - 12488",
+      "name": "Official Node linux13 - 28288",
       "url": "167.86.94.121",
       "port": 12488,
       "ssl": false,
@@ -17,16 +17,16 @@
       "online": true
     },
     {
-      "name": "Official Node 3 - linux19 - 28282",
-      "url": "167.86.83.67",
-      "port": 28282,
+      "name": "Official Node linux1 - 28288",
+      "url": "95.111.246.69",
+      "port": 28288,
       "ssl": false,
       "fee": 0,
       "online": true
     },
     {
-      "name": "Official Node 3 - linux19 - 28287",
-      "url": "167.86.83.67",
+      "name": "Official Node 3 linux1 - 28287",
+      "url": "95.111.246.69",
       "port": 28287,
       "ssl": false,
       "fee": 0,
