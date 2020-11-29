@@ -9,14 +9,6 @@
       "online": true
     },
     {
-      "name": "Official Node linux13 - 28288",
-      "url": "167.86.94.121",
-      "port": 12488,
-      "ssl": false,
-      "fee": 0,
-      "online": true
-    },
-    {
       "name": "Official Node linux1 - 28288",
       "url": "95.111.246.69",
       "port": 28288,
