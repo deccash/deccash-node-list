@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "Official Node linux13 - 28287",
-      "url": "167.86.94.121",
+      "url": "sync.deccash.org",
       "port": 28287,
       "ssl": false,
       "fee": 0,
@@ -10,15 +10,15 @@
     },
     {
       "name": "Official Node linux1 - 28288",
-      "url": "95.111.246.69",
-      "port": 28288,
+      "url": "127.28.17.59",
+      "port": 28287,
       "ssl": false,
       "fee": 0,
-      "online": false
+      "online": true
     },
     {
       "name": "Official Node 3 linux1 - 28287",
-      "url": "95.111.246.69",
+      "url": "95.141.228.101",
       "port": 28287,
       "ssl": false,
       "fee": 0,
