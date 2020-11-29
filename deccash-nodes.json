@@ -14,7 +14,7 @@
       "port": 28288,
       "ssl": false,
       "fee": 0,
-      "online": true
+      "online": false
     },
     {
       "name": "Official Node 3 linux1 - 28287",
