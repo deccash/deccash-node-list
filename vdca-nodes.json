@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "name": "VDC Official Node1",
+      "url": "node1.v-digitalc.net",
+      "port": 31698,
+      "ssl": false,
+      "fee": 0,
+      "online": true
+    },
+    {
+      "name": "Official Node linux1 - 28288",
+      "url": "127.28.17.59",
+      "port": 28287,
+      "ssl": false,
+      "fee": 0,
+      "online": false
+    },
+    {
+      "name": "Official Node 3 linux1 - 28287",
+      "url": "95.141.228.101",
+      "port": 28287,
+      "ssl": false,
+      "fee": 0,
+      "online": false
+    }
+  ]
+}
